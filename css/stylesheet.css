@@ -11,7 +11,6 @@ body{
 }
 
 header {
-  
   background-color: rgb(166, 207, 127); 
 }
 
@@ -41,27 +40,16 @@ color: darkslategray;
 }
 
 #sidebar{
-  
   background-color: rgb(166, 207, 127);
-  
   color: black;
 }
-
-.nav-menu{
-  
-  list-style-type: none;
-   
-}
-
 footer {
-  
   background-image: linear-gradient(rgb(166, 207, 127),#3f784c  );
 }
 
 .icons{
   width: 3rem;
   margin: 0.5rem;
-  
   }
 
   h2,h3{
